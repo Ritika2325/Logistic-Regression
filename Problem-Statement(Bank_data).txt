@@ -1,0 +1,7 @@
+Output variable -> y
+y -> Whether the client has subscribed a term deposit or not 
+Binomial ("yes" or "no")
+
+Answer: If 0 means "Yes", then yes the client has subscribed a term deposit.
+
+Since the recall value for '0' is high, also the values a and d in confusion matrix is high, which means model is good.
